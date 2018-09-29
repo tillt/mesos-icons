@@ -6,6 +6,10 @@ These icon files have been rendered from a source image grabbed from the [Apache
 
 [Download macOS icon](https://github.com/tillt/mesos-icons/raw/master/mesos.icns)
 
+## Windows Icon
+
+[Download Windows icon](https://github.com/tillt/mesos-icons/raw/master/mesos.ico)
+
 ## PNG Images
 
 |         | normal | retina |
