@@ -10,6 +10,12 @@ These icon files have been rendered from a source image grabbed from the [Apache
 
 [Download Windows icon](https://github.com/tillt/mesos-icons/raw/master/mesos.ico)
 
+## motd Banner
+
+[Download motd banner](https://github.com/tillt/mesos-icons/raw/master/mesos_motd.txt)
+
+![motd screenshot](https://github.com/tillt/mesos-icons/raw/master/site/motd_screenshot.png)
+
 ## PNG Images
 
 |         | normal | retina |
